@@ -8,12 +8,12 @@ view: ads {
     link: {
       label: "Ad Performance Dashboard"
       icon_url: "https://looker.com/favicon.ico"
-      url: "https://boomerang.looker.com/dashboards/8"
+      url: "https://vettedpetcare.looker.com/dashboards/8"
     }
     link: {
       label: "Campaign Lookup Dashboard"
       icon_url: "https://looker.com/favicon.ico"
-      url: "https://boomerang.looker.com/dashboards/6?Campaign%20Name={{ campaigns.name._value }}"
+      url: "https://vettedpetcare.looker.com/dashboards/6?Campaign%20Name={{ campaigns.name._value }}"
     }
   }
 
